@@ -1,0 +1,55 @@
+---
+title: "3d-printing-middle-school"
+---
+
+3D Printing for Middle-Schoolers - A Practical Approach
+
+I. Introduction: The Whole Game of 3D Printing
+A. Real-world examples of 3D printing applications
+B. A quick overview of the 3D printing process
+C. The exciting possibilities with 3D printing
+
+II. Jumping Right In: Your First 3D Print
+A. Choosing a pre-made 3D model
+B. Slicing the model using user-friendly software
+C. Printing the model with a simple FDM printer
+D. Reflecting on the experience and learning from mistakes
+
+III. Diving Deeper: Creating Your Own 3D Model
+A. Exploring various 3D modeling software
+B. Designing a simple project with a real-world purpose
+C. Exporting your model as an STL file
+D. Understanding basic 3D modeling concepts through examples
+
+IV. Understanding FDM Printing: Layer by Layer
+A. How FDM printing works: a hands-on approach
+B. Components of an FDM printer and their functions
+C. Different materials used in FDM printing
+D. Advantages and limitations of FDM printing
+
+V. Mastering the Art of Slicing
+A. Slicing settings explained through examples
+B. Preparing your model for printing
+C. Exporting G-code and understanding its purpose
+D. Troubleshooting slicing issues
+
+VI. Setting Up and Maintaining Your 3D Printer
+A. Assembling and calibrating your printer
+B. Loading filament and changing materials
+C. Printer maintenance and troubleshooting
+
+VII. Post-Processing and Finishing Touches
+A. Removing the print from the bed
+B. Cleaning up supports and imperfections
+C. Sanding, painting, and other finishing techniques
+
+VIII. 3D Printing Safety, Best Practices, and Inclusivity
+A. Safe handling of materials and equipment
+B. Ventilation and fume management
+C. Encouraging diversity and inclusion in 3D printing
+
+IX. Collaborative Projects and Creative Applications
+A. STEM projects and interdisciplinary learning
+B. Art, design, and personal expression
+C. Functional prints and solving real-world problems
+D. Exploring advanced 3D printing techniques and technologies
